@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Bank Banten",
+    "type": "LocalBank",
+    "customers": [
+      {
+        "name": "John",
+        "ktp": "123456789",
+        "depositAmount": 16500
+      },
+      {
+        "name": "Jane",
+        "ktp": "012345678",
+        "depositAmount": 33000
+      },
+      {
+        "name": "Jake",
+        "ktp": "9982823323",
+        "depositAmount": 11000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bank BCA",
+    "type": "NationalBank",
+    "customers": [
+      {
+        "name": "Johnny",
+        "ktp": "323456789",
+        "depositAmount": 60500
+      },
+      {
+        "name": "Jake",
+        "ktp": "612345678",
+        "depositAmount": 6050000
+      },
+      {
+        "name": "Joko",
+        "ktp": "9182823323",
+        "depositAmount": 1210000
+      },
+      {
+        "name": "Asep",
+        "ktp": "9182823323",
+        "depositAmount": 1210000
+      },
+      {
+        "name": "Agus",
+        "ktp": "9182823323",
+        "depositAmount": 1210000
+      }
+    ]
+  }
+]
